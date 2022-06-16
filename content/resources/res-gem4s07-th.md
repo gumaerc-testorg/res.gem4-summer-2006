@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/res-gem4-global-enterprise-for-micro-mechanics-and-molecular-medicine-gem4-summer-2006-summer-2007/e9a8de4e148234a2cd302d62f9b3aa73_res-gem4s07-th.jpg
+file: /courses/res-gem4-global-enterprise-for-micro-mechanics-and-molecular-medicine-gem4-summer-2006-summer-2007/e9a8de4e148234a2cd302d62f9b3aa73_res-gem4s07-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: The mechanics of various proteins that enable cells to move is one of the
