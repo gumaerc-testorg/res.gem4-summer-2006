@@ -9,6 +9,7 @@ image_metadata:
   credit: ''
   image-alt: Schematic drawing of the proteins connecting fibronectin and actin filaments.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: res-gem4s07.jpg
